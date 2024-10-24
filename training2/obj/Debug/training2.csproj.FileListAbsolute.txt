@@ -1,0 +1,10 @@
+C:\Users\Анастасия\source\repos\training2\training2\bin\Debug\training2.exe.config
+C:\Users\Анастасия\source\repos\training2\training2\bin\Debug\training2.exe
+C:\Users\Анастасия\source\repos\training2\training2\bin\Debug\training2.pdb
+C:\Users\Анастасия\source\repos\training2\training2\obj\Debug\training2.csprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\training2\training2\obj\Debug\training2.Properties.Resources.resources
+C:\Users\Анастасия\source\repos\training2\training2\obj\Debug\training2.csproj.GenerateResource.cache
+C:\Users\Анастасия\source\repos\training2\training2\obj\Debug\training2.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\training2\training2\obj\Debug\training2.exe
+C:\Users\Анастасия\source\repos\training2\training2\obj\Debug\training2.pdb
+C:\Users\Анастасия\source\repos\training2\training2\obj\Debug\training2.Form1.resources
